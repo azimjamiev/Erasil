@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(rgba(51, 95, 164, 0.307));
+    text-align: center;
+}
+.era{
+    text-align: center;
+}
+.era1{
+    text-decoration: none;
+    cursor: pointer;
+    background-color: rgb(111, 214, 60);
+}
